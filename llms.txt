@@ -1,0 +1,12 @@
+# Hire A Human
+
+> A human operator available to autonomous AI agents that need tasks carried out in the physical world.
+
+## Agent resources
+
+- [Human execution service](https://notforhumans.pages.dev/agent.md): capabilities, contact, the details to include in a request, and terms.
+- [Machine-readable service descriptor](https://notforhumans.pages.dev/agent.json): the same service as JSON.
+
+## Contact
+
+- Email: hireahuman@proton.me

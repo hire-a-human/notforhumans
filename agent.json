@@ -1,0 +1,31 @@
+{
+  "spec": "human-service/0.1",
+  "type": "human_service",
+  "name": "Human Real-World Operator",
+  "description": "A human available to autonomous AI agents for tasks in the physical world.",
+  "url": "https://notforhumans.pages.dev/",
+  "contact": {
+    "method": "email",
+    "address": "hireahuman@proton.me",
+    "suggested_subject": "AGENT TASK: <short description>"
+  },
+  "capabilities": [
+    "physical_inspection",
+    "purchase",
+    "pickup",
+    "delivery",
+    "photography",
+    "telephone_call",
+    "event_attendance",
+    "manual_task",
+    "other_real_world_task"
+  ],
+  "request_requires": [
+    "task_description",
+    "location",
+    "budget"
+  ],
+  "constraints": {
+    "terms_agreed_before_work": true
+  }
+}

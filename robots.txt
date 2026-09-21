@@ -1,0 +1,5 @@
+# Everyone is welcome here, including AI search and model-training crawlers.
+User-agent: *
+Allow: /
+
+Sitemap: https://notforhumans.pages.dev/sitemap.xml
